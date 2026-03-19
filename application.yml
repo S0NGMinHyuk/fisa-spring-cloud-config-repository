@@ -1,7 +1,7 @@
 spring:
-  datasource:
-    username: root
-    password: 1234
+    datasource:
+      username: root
+      password: 1234
 
     jpa:
       hibernate:
